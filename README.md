@@ -5,7 +5,7 @@ Proje Yazarı: Adınızı ve soyadınızı yazınız.
 olacak bir dijital asistan tasarlamak
 ##  Projenin  Hedefleri:  Bu  asistanın  ilerleyen  zamanlarda  hangi  özellikleri  kazanacağını
 (örneğin v1.0 Akıllı Menü, v2.0 Veri Saklama) maddeler hâlinde yazınız.
-### ALGORİTMA
+## ALGORİTMA
 1.	başla
 2.	saat=0 
 3.	ekrana kapaklar kapalı yaz
