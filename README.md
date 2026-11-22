@@ -16,3 +16,4 @@ olacak bir dijital asistan tasarlamak
 8.	bitir
 
 ### AKIŞ ŞEMASI
+![Şema Açıklaması](akis.jpg)
