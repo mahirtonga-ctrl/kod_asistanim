@@ -15,5 +15,5 @@ olacak bir dijital asistan tasarlamak
 7.	değilse ekrana “kapaklar açıldı”, saat ve su_seviyesini yazdır
 8.	bitir
 
-### AKIŞ ŞEMASI
+## AKIŞ ŞEMASI
 ![Şemyyyyyyyyyyyyyyyyyyyyyyyı](akis.jpg)
